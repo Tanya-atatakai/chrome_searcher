@@ -1,0 +1,1 @@
+The program receives download link of standalone Google Chrome installer for your platform and also displays its latest version 
